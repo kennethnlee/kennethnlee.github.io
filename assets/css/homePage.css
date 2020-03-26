@@ -1,2 +1,6 @@
-#heading 
-{border-radius: 10px; border-style: solid; border-color: aquamarine;}
+.borderImg {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: aquamarine;
+    border-width: 10px;
+}
