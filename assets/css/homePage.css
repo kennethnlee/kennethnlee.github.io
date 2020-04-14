@@ -5,4 +5,20 @@
     border-width: 10px;
 }
 
+a.link{
+color: green;
+text-decoration: underline;
+}
 
+a.link-hover
+ { 
+     background-color: green;
+     color: white 
+}
+
+a.link-active{
+    background-color: red;
+    color: white;
+    border: solid 1px green
+
+}

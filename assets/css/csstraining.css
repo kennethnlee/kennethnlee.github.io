@@ -27,3 +27,18 @@
     text-align: center;
     background: #999;
   }
+  div.col-md-2 {
+    height: 200px;
+    color: darkred;
+    background-color: burlywood;
+  }
+  div.col-md-6 {
+    height: 200px;
+    color: blue;
+    background-color: blanchedalmond;
+  }
+  div.col-md-4 {
+    height: 200px;
+    color: green;
+     background-color: grey;
+  }
