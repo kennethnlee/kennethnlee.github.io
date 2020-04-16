@@ -6,4 +6,23 @@ body {
     color: white;
     background-color: blue;
     border: 2px solid aqua;
+} 
+
+a.link:hover { 
+    background-color: green;
+    color: white;
+}
+
+a.link:active {
+   background-color: red;
+   color: white;
+   border: solid 1px green;
+}
+
+.navBR {
+    background-color: #7fffd5!important;
+}
+
+.descriptioncenter {
+    margin-top: 30px;
 }

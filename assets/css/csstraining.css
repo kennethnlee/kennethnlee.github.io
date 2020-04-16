@@ -27,18 +27,19 @@
     text-align: center;
     background: #999;
   }
-  div.col-md-2 {
+div.firstdiv {
     height: 200px;
-    color: darkred;
-    background-color: burlywood;
+   background-color: darkred;
   }
-  div.col-md-6 {
+div.seconddiv {
     height: 200px;
-    color: blue;
-    background-color: blanchedalmond;
+    background-color: blue;
   }
-  div.col-md-4 {
+div.thirddiv {
     height: 200px;
-    color: green;
-     background-color: grey;
+    background-color: green;
+  }
+div.fourthdiv {
+    height: 200px;
+    background-color: yellow;
   }
